@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "h8AiJc65HX3Vp1vGkOBEA5umorQ=",
+			"path": "github.com/fanatic/go-infoblox",
+			"revision": "ece4e23a370d0bbac46d17f386f73d0d124a8d97",
+			"revisionTime": "2018-04-14T18:49:06Z"
+		},
+		{
 			"checksumSHA1": "T9g5JfKsdSimxdqEqNPvS5CSupU=",
 			"path": "github.com/apparentlymart/go-cidr/cidr",
 			"revision": "f74186abdf0be1c9f8bfa7a5f97afcd3e598ff5e",
